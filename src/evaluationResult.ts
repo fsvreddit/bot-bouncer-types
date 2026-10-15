@@ -1,4 +1,4 @@
-import { HitReason } from "@fsvreddit/bot-bouncer-evaluation";
+import { HitReason } from ".";
 
 export interface EvaluationResult {
     botName: string;

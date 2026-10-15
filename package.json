@@ -1,6 +1,6 @@
 {
     "name": "@fsvreddit/bot-bouncer-types",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Type definitions for Bot Bouncer, a Dev Platform app designed to hunt bots on Reddit",
     "main": "dist/index.js",
     "scripts": {
@@ -20,7 +20,6 @@
     "author": "fsv",
     "license": "BSD-3-Clause",
     "dependencies": {
-        "@fsvreddit/bot-bouncer-evaluation": "^0.8.0",
         "ajv": "^8.20.0"
     },
     "devDependencies": {
