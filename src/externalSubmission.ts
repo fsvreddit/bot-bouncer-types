@@ -7,7 +7,7 @@ export interface ExternalSubmission {
     subreddit?: string;
     reportContext?: string;
     publicContext?: boolean;
-    targetId?: string;
+    targetId?: `t1_${string}` | `t3_${string}`;
     initialStatus?: UserStatus;
     evaluationResults?: EvaluationResult[];
     sendFeedback?: boolean;
