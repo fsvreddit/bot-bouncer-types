@@ -1,4 +1,4 @@
-export type EvaluatorRegexFoundIn = "title" | "body" | "username" | "bio" | "displayname" | "image";
+export type EvaluatorRegexFoundIn = "title" | "body" | "username" | "bio" | "displayname" | "image" | "url";
 
 export interface EvaluatorRegex {
     evaluatorName: string;
