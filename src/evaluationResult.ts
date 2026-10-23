@@ -1,4 +1,4 @@
-import { HitReason } from ".";
+import { HitReason } from "./index.js";
 
 export interface EvaluationResult {
     botName: string;

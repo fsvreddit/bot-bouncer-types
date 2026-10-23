@@ -1,5 +1,5 @@
-import { EvaluationResult } from "./evaluationResult";
-import { UserStatus } from "./userStatus";
+import { EvaluationResult } from "./evaluationResult.js";
+import { UserStatus } from "./userStatus.js";
 
 export interface ExternalSubmission {
     username: string;
