@@ -25,7 +25,6 @@
     },
     "devDependencies": {
         "@fsvreddit/eslint-config": "^0.1.1",
-        "@types/ajv": "^1.0.4",
         "eslint": "^10.0.2",
         "typescript": "^6.0.2"
     },
