@@ -1,3 +1,4 @@
+export * from "./appealConfig.js";
 export * from "./controlSubSettings.js";
 export * from "./evaluationResult.js";
 export * from "./evaluatorRegex.js";
@@ -6,4 +7,5 @@ export * from "./externalSubmission.js";
 export * from "./hitReason.js";
 export * from "./reducedComment.js";
 export * from "./reducedPost.js";
+export * from "./userFlag.js";
 export * from "./userStatus.js";
