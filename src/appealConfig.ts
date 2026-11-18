@@ -1,7 +1,8 @@
 /* eslint-disable @stylistic/quote-props */
 
 import { JSONSchemaType } from "ajv";
-import { UserFlag, UserStatus } from "./index.js";
+import { UserFlag } from "./userFlag.js";
+import { UserStatus } from "./userStatus.js";
 
 export interface AppealRegexConfig {
     "name": string;
